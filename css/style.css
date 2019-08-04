@@ -1,0 +1,111 @@
+@charset "UTF-8";
+/* CSS Document */
+body{
+	font-family: Segoe, 'Segoe UI', 'DejaVu Sans', 'Trebuchet MS', Verdana, 'sans-serif'sans-serif;
+	font-size: 16px;
+	color: #212529;
+}
+
+.header-area.sticky {
+	background-color: #000000 #000000;
+	width: 100%;
+    height: auto;
+    position: fixed;
+    top: 0;
+    z-index: 99;
+}
+.header-area.sticky .nav-link{
+	color: #000;
+}
+
+.header-area.sticky .d-none{
+	display: block !important;
+}
+
+.header-area.sticky .d-block{
+	display: none !important;
+}
+
+.header-area.sticky .navbar-default{
+	background-color: #000000;
+}
+
+header {
+	background-color: #000000;
+}
+
+
+#Iphone XR{
+	background-color: #000000
+}
+
+#features{
+	background-color: #282828;
+	color: #FFFFFF;
+	padding: 100px;
+	text-align: center;
+}
+
+#features i{
+	color: #fff;
+	align-content: center;
+	
+}
+#Quote{
+	background-color: #000000;
+	color: #FFFFFF;
+	padding: 100px;
+	padding-left: 20px;
+	text-align: center;
+	font-size: 60px;
+}
+
+#Quote h1 span{
+	color: #2CA2F1;
+}
+
+#camera{
+	background-color: #000;
+	color: #FFFFFF;
+	padding: 40PX;
+}
+#BUY{
+	background-color: #313131;
+	color: #fff;
+}
+
+#cam1{
+	padding: 40px;
+	font-size: 30px;
+	text-align: center;
+	
+}
+
+#camera{
+	margin-top: 20px;
+}
+
+#blanco{
+	background-color: #fff;
+	color: #1E1E1E;
+	text-align: center;
+	padding: 40px;
+}
+
+#BUY{
+	text-align: center;
+	padding: 90px;
+}
+
+#BUY i{
+	color: #fff;
+	text-align: center;
+}
+
+
+#contact{
+	text-align: center;
+	background-color: #000000;
+	color: #fff;
+	padding: 70px;
+}
